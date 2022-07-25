@@ -40,7 +40,7 @@ While logged in, you can now add your own comments and upvote posts. Click on `(
 * MySQL Driver
 
 ## Website
-https://masuamah-python-newsfeed.herokuapp.com/
+cc-java-api-92.herokuapp.com/
 
 ## Contributors
 Michelle Asuamah
